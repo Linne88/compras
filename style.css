@@ -10,7 +10,7 @@ h1 {
     text-decoration: underline;
 }
 .list-section {
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
 }
 .section {
