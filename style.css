@@ -31,9 +31,10 @@ h1 {
 .section ul {
     list-style-type: none;
     padding: 5px;
+    margin: 5px;
 }
 .section li {
-    margin: 10px;
+    margin: 5px;
     font-size: 18px;
     color: #00a;
 }
