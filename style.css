@@ -40,7 +40,7 @@ h1 {
 .section input {
     margin: 5px;
 }
-.section input[type="number"] {
-    width: 20px; /* Define a largura do campo de quantidade */
+.section input[type="text"] {
+    width: 15px; /* Define a largura do campo de quantidade */
     border: none;
 }
